@@ -1,2 +1,2 @@
-# jxauto-releases
-Bản phát hành JxAuto
+# JxTT-releases
+Bản phát hành Auto Jx Tam Tuyệt
